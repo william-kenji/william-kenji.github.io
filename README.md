@@ -1,4 +1,6 @@
 # Field Notes — personal blog on Cloudflare Pages + D1
+**Please note that this is a fork from my friend Task-Eagle on GitHub.*
+Please visit https://github.com/Task-Eagle/personal-blog to access the original repository and fork it for personal use.
 
 A small blog you can keep updating from the browser.
 
